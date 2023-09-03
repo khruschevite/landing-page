@@ -4,11 +4,6 @@ body {
     font-family: "roboto";
 }
 
-.logo {
-    height: 100px;
-    width: auto;
-}
-
 .header {
     display: flex;
     justify-content: space-around;
