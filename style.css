@@ -1,13 +1,15 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: "roboto";
+    font-family: Roboto, sans-  ; 
 }
 
 .header {
     display: flex;
     justify-content: space-around;
+    background-color: #1f2937;
     align-items: center;
+    padding: 14px;
 }
 
 .links {
@@ -16,8 +18,16 @@ body {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-size: 18px;
+    
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 a {
     text-decoration: none;
+    color: #e5e7eb;
 }
