@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: "roboto";
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
