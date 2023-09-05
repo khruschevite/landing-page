@@ -101,6 +101,10 @@ img {
     padding-bottom: 50px;
 }
 
+.information {
+    padding: 50px 0px;
+}
+
 .info-row {
     display: flex;
     justify-content: center;
